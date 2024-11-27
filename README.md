@@ -16,10 +16,13 @@
 ## 📸 **Screenshots**
 
 ### Main Interface:
-![Main Interface Screenshot](https://raw.githubusercontent.com/Princekashyap2024/Simple-Calculator/main/Main%20Interface%20Screenshot.png)
+![Main Interface Screenshot](https://github.com/Princekashyap2024/Simple-Calculator/blob/main/Main%20Interface%20Screenshot%20(2).png?raw=true)
 
 ### Real-Time Calculation:
-![Calculation Screenshot](https://raw.githubusercontent.com/Princekashyap2024/Simple-Calculator/main/Calculation%20Screenshot.png)
+![Calculation Screenshot](https://github.com/Princekashyap2024/Simple-Calculator/blob/main/Calculation%20Screenshot.png?raw=true)
+
+### Dark Mode:
+![Dark Mode Screenshot](https://github.com/Princekashyap2024/Simple-Calculator/blob/main/Dark%20Mode%20Screenshot.png?raw=true)
 
 ---
 
